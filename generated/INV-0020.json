@@ -1,0 +1,53 @@
+{
+  "number": "INV-0020",
+  "vat_amount": "4296.18",
+  "subtotal": "28641.20",
+  "total": "32937.38",
+  "invoice_date": "2026-04-16",
+  "due_date": "2026-04-30",
+  "items": [
+    {
+      "name": "LFC!@#",
+      "quantity": 10,
+      "unit_price": "78.12",
+      "total_price": "781.20",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "BB12",
+      "quantity": 5,
+      "unit_price": "980.0",
+      "total_price": "4900.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "tesr1234",
+      "quantity": 8,
+      "unit_price": "1120.0",
+      "total_price": "8960.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "CV5",
+      "quantity": 4,
+      "unit_price": "1500.0",
+      "total_price": "6000.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "POX2hfh3551551",
+      "quantity": 8,
+      "unit_price": "1000.0",
+      "total_price": "8000.0",
+      "currentcy": "ZAR"
+    }
+  ],
+  "purchase_order_number": null,
+  "terms_and_conditions": "\nPayment is due within 14 days of the invoice date via direct electronic funds transfer (EFT) in South African Rand (ZAR). Overdue balances will attract a late payment fee of 1.5% interest per month, accruing daily until the balance is settled in full. Any invoice disputes must be submitted in writing within 7 days of receipt, or the invoice will be deemed accepted as correct. All goods, services, or intellectual property deliverables remain the sole property of the provider until payment is received in full, and any associated usage rights may be suspended in the event of a default. Prices exclude VAT and other local taxes unless explicitly itemized, and the client is responsible for all applicable transaction or recovery fees.\n",
+  "company_name": "Investec",
+  "company_address": "41 Beach Road, Summerstrand, Gqeberha, 6001",
+  "company_vat_number": "0831112233",
+  "customer_trading_name": "Investec",
+  "customer_vat_number": "0635551234",
+  "customer_shipping_address": "Unit 4B, Industrial Park, 12 Falcon Road, Lanseria, 1748"
+}

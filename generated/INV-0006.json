@@ -1,0 +1,32 @@
+{
+  "number": "INV-0006",
+  "vat_amount": "1380.30",
+  "subtotal": "9202.0",
+  "total": "10582.30",
+  "invoice_date": "2026-09-05",
+  "due_date": "2026-09-19",
+  "items": [
+    {
+      "name": "POX23h550386",
+      "quantity": 10,
+      "unit_price": "850.0",
+      "total_price": "8500.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "VB34",
+      "quantity": 9,
+      "unit_price": "78.0",
+      "total_price": "702.0",
+      "currentcy": "ZAR"
+    }
+  ],
+  "purchase_order_number": null,
+  "terms_and_conditions": "\nPayment is due within 14 days of the invoice date via direct electronic funds transfer (EFT) in South African Rand (ZAR). Overdue balances will attract a late payment fee of 1.5% interest per month, accruing daily until the balance is settled in full. Any invoice disputes must be submitted in writing within 7 days of receipt, or the invoice will be deemed accepted as correct. All goods, services, or intellectual property deliverables remain the sole property of the provider until payment is received in full, and any associated usage rights may be suspended in the event of a default. Prices exclude VAT and other local taxes unless explicitly itemized, and the client is responsible for all applicable transaction or recovery fees.\n",
+  "company_name": "Investec",
+  "company_address": "14 Mimosa Way, Welgemoed, Bellville, 7530",
+  "company_vat_number": "0635551234",
+  "customer_trading_name": "Investec",
+  "customer_vat_number": "0831112233",
+  "customer_shipping_address": "Warehouse 7, Mega Storage Facility, 88 Heidelberg Road, City Deep, 2049"
+}

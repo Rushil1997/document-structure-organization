@@ -1,0 +1,60 @@
+{
+  "number": "INV-0011",
+  "vat_amount": "4374.18",
+  "subtotal": "29161.20",
+  "total": "33535.38",
+  "invoice_date": "2026-11-23",
+  "due_date": "2026-12-07",
+  "items": [
+    {
+      "name": "AFRI232455815",
+      "quantity": 10,
+      "unit_price": "450.0",
+      "total_price": "4500.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "BB12",
+      "quantity": 10,
+      "unit_price": "980.0",
+      "total_price": "9800.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "PANT1233493",
+      "quantity": 8,
+      "unit_price": "750.0",
+      "total_price": "6000.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "PANT235550387",
+      "quantity": 10,
+      "unit_price": "411.12",
+      "total_price": "4111.20",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "UFGRG23101",
+      "quantity": 5,
+      "unit_price": "450.0",
+      "total_price": "2250.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "BF1212C",
+      "quantity": 5,
+      "unit_price": "500.0",
+      "total_price": "2500.0",
+      "currentcy": "ZAR"
+    }
+  ],
+  "purchase_order_number": null,
+  "terms_and_conditions": "\nPayment is due within 14 days of the invoice date via direct electronic funds transfer (EFT) in South African Rand (ZAR). Overdue balances will attract a late payment fee of 1.5% interest per month, accruing daily until the balance is settled in full. Any invoice disputes must be submitted in writing within 7 days of receipt, or the invoice will be deemed accepted as correct. All goods, services, or intellectual property deliverables remain the sole property of the provider until payment is received in full, and any associated usage rights may be suspended in the event of a default. Prices exclude VAT and other local taxes unless explicitly itemized, and the client is responsible for all applicable transaction or recovery fees.\n",
+  "company_name": "Discovery",
+  "company_address": "41 Beach Road, Summerstrand, Gqeberha, 6001",
+  "company_vat_number": "0612223344",
+  "customer_trading_name": "Discovery",
+  "customer_vat_number": "0659990011",
+  "customer_shipping_address": "Building C, The Pivot, Montecasino Boulevard, Fourways, 2055"
+}

@@ -1,0 +1,39 @@
+{
+  "number": "INV-0015",
+  "vat_amount": "1403.44",
+  "subtotal": "9356.24",
+  "total": "10759.68",
+  "invoice_date": "2026-06-01",
+  "due_date": "2026-06-15",
+  "items": [
+    {
+      "name": "Gefsfsg12",
+      "quantity": 10,
+      "unit_price": "120.0",
+      "total_price": "1200.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "LFC!@#",
+      "quantity": 2,
+      "unit_price": "78.12",
+      "total_price": "156.24",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "POX2hfh3551551",
+      "quantity": 8,
+      "unit_price": "1000.0",
+      "total_price": "8000.0",
+      "currentcy": "ZAR"
+    }
+  ],
+  "purchase_order_number": null,
+  "terms_and_conditions": "\nPayment is due within 14 days of the invoice date via direct electronic funds transfer (EFT) in South African Rand (ZAR). Overdue balances will attract a late payment fee of 1.5% interest per month, accruing daily until the balance is settled in full. Any invoice disputes must be submitted in writing within 7 days of receipt, or the invoice will be deemed accepted as correct. All goods, services, or intellectual property deliverables remain the sole property of the provider until payment is received in full, and any associated usage rights may be suspended in the event of a default. Prices exclude VAT and other local taxes unless explicitly itemized, and the client is responsible for all applicable transaction or recovery fees.\n",
+  "company_name": "Investec",
+  "company_address": "55 Long Street, Cape Town CBD, Cape Town, 8001",
+  "company_vat_number": "0635551234",
+  "customer_trading_name": "Investec",
+  "customer_vat_number": "0821234567",
+  "customer_shipping_address": "Suite 102, Willowbrook Office Park, Van Hoof Street, Ruimsig, 1724"
+}

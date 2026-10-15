@@ -1,0 +1,39 @@
+{
+  "number": "INV-0008",
+  "vat_amount": "953.56",
+  "subtotal": "6357.08",
+  "total": "7310.64",
+  "invoice_date": "2026-12-15",
+  "due_date": "2026-12-29",
+  "items": [
+    {
+      "name": "Gwrw33",
+      "quantity": 4,
+      "unit_price": "45.0",
+      "total_price": "180.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "ddgdg97-HD",
+      "quantity": 7,
+      "unit_price": "782.0",
+      "total_price": "5474.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "LFC!@#",
+      "quantity": 9,
+      "unit_price": "78.12",
+      "total_price": "703.08",
+      "currentcy": "ZAR"
+    }
+  ],
+  "purchase_order_number": null,
+  "terms_and_conditions": "\nPayment is due within 14 days of the invoice date via direct electronic funds transfer (EFT) in South African Rand (ZAR). Overdue balances will attract a late payment fee of 1.5% interest per month, accruing daily until the balance is settled in full. Any invoice disputes must be submitted in writing within 7 days of receipt, or the invoice will be deemed accepted as correct. All goods, services, or intellectual property deliverables remain the sole property of the provider until payment is received in full, and any associated usage rights may be suspended in the event of a default. Prices exclude VAT and other local taxes unless explicitly itemized, and the client is responsible for all applicable transaction or recovery fees.\n",
+  "company_name": "FHS",
+  "company_address": "55 Long Street, Cape Town CBD, Cape Town, 8001",
+  "company_vat_number": "0818889900",
+  "customer_trading_name": "FHS",
+  "customer_vat_number": "0659990011",
+  "customer_shipping_address": "Building C, The Pivot, Montecasino Boulevard, Fourways, 2055"
+}

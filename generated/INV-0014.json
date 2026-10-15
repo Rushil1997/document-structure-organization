@@ -1,0 +1,53 @@
+{
+  "number": "INV-0014",
+  "vat_amount": "1225.84",
+  "subtotal": "8172.24",
+  "total": "9398.08",
+  "invoice_date": "2026-03-22",
+  "due_date": "2026-04-05",
+  "items": [
+    {
+      "name": "PANT235550387",
+      "quantity": 2,
+      "unit_price": "411.12",
+      "total_price": "822.24",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "TEFSF0dgs",
+      "quantity": 9,
+      "unit_price": "150.0",
+      "total_price": "1350.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "P834f@29333",
+      "quantity": 5,
+      "unit_price": "750.0",
+      "total_price": "3750.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "Gefsfsg12",
+      "quantity": 5,
+      "unit_price": "120.0",
+      "total_price": "600.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "F122",
+      "quantity": 3,
+      "unit_price": "550.0",
+      "total_price": "1650.0",
+      "currentcy": "ZAR"
+    }
+  ],
+  "purchase_order_number": null,
+  "terms_and_conditions": "\nPayment is due within 14 days of the invoice date via direct electronic funds transfer (EFT) in South African Rand (ZAR). Overdue balances will attract a late payment fee of 1.5% interest per month, accruing daily until the balance is settled in full. Any invoice disputes must be submitted in writing within 7 days of receipt, or the invoice will be deemed accepted as correct. All goods, services, or intellectual property deliverables remain the sole property of the provider until payment is received in full, and any associated usage rights may be suspended in the event of a default. Prices exclude VAT and other local taxes unless explicitly itemized, and the client is responsible for all applicable transaction or recovery fees.\n",
+  "company_name": "MFD",
+  "company_address": "92 Kingfisher Lane, Fourways, Sandton, 2055",
+  "company_vat_number": "0821234567",
+  "customer_trading_name": "MFD",
+  "customer_vat_number": "0794445566",
+  "customer_shipping_address": "Shop 14, Avalon Shopping Centre, 22 Robin Hood Road, Lenasia, 1827"
+}

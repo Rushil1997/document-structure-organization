@@ -1,0 +1,53 @@
+{
+  "number": "INV-0012",
+  "vat_amount": "1623.48",
+  "subtotal": "10823.22",
+  "total": "12446.70",
+  "invoice_date": "2026-11-23",
+  "due_date": "2026-12-07",
+  "items": [
+    {
+      "name": "VB34",
+      "quantity": 2,
+      "unit_price": "78.0",
+      "total_price": "156.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "TEs23",
+      "quantity": 6,
+      "unit_price": "500.0",
+      "total_price": "3000.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "AB45",
+      "quantity": 6,
+      "unit_price": "52.12",
+      "total_price": "312.72",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "P55001T",
+      "quantity": 9,
+      "unit_price": "250.5",
+      "total_price": "2254.5",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "POX23h550386",
+      "quantity": 6,
+      "unit_price": "850.0",
+      "total_price": "5100.0",
+      "currentcy": "ZAR"
+    }
+  ],
+  "purchase_order_number": null,
+  "terms_and_conditions": "\nPayment is due within 14 days of the invoice date via direct electronic funds transfer (EFT) in South African Rand (ZAR). Overdue balances will attract a late payment fee of 1.5% interest per month, accruing daily until the balance is settled in full. Any invoice disputes must be submitted in writing within 7 days of receipt, or the invoice will be deemed accepted as correct. All goods, services, or intellectual property deliverables remain the sole property of the provider until payment is received in full, and any associated usage rights may be suspended in the event of a default. Prices exclude VAT and other local taxes unless explicitly itemized, and the client is responsible for all applicable transaction or recovery fees.\n",
+  "company_name": "Sasol",
+  "company_address": "14 Mimosa Way, Welgemoed, Bellville, 7530",
+  "company_vat_number": "0719876543",
+  "customer_trading_name": "Sasol",
+  "customer_vat_number": "0719876543",
+  "customer_shipping_address": "Warehouse B2, Riverhorse Valley Business Estate, 11 Riverhorse Close, Durban, 4017"
+}

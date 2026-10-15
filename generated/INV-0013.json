@@ -1,0 +1,39 @@
+{
+  "number": "INV-0013",
+  "vat_amount": "876.00",
+  "subtotal": "5840.0",
+  "total": "6716.00",
+  "invoice_date": "2026-05-13",
+  "due_date": "2026-05-27",
+  "items": [
+    {
+      "name": "Gefsfsg12",
+      "quantity": 8,
+      "unit_price": "120.0",
+      "total_price": "960.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "AAA11",
+      "quantity": 10,
+      "unit_price": "410.0",
+      "total_price": "4100.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "VB34",
+      "quantity": 10,
+      "unit_price": "78.0",
+      "total_price": "780.0",
+      "currentcy": "ZAR"
+    }
+  ],
+  "purchase_order_number": null,
+  "terms_and_conditions": "\nPayment is due within 14 days of the invoice date via direct electronic funds transfer (EFT) in South African Rand (ZAR). Overdue balances will attract a late payment fee of 1.5% interest per month, accruing daily until the balance is settled in full. Any invoice disputes must be submitted in writing within 7 days of receipt, or the invoice will be deemed accepted as correct. All goods, services, or intellectual property deliverables remain the sole property of the provider until payment is received in full, and any associated usage rights may be suspended in the event of a default. Prices exclude VAT and other local taxes unless explicitly itemized, and the client is responsible for all applicable transaction or recovery fees.\n",
+  "company_name": "Discovery",
+  "company_address": "14 Mimosa Way, Welgemoed, Bellville, 7530",
+  "company_vat_number": "0818889900",
+  "customer_trading_name": "Discovery",
+  "customer_vat_number": "0794445566",
+  "customer_shipping_address": "Unit 15, Northlands Deco Park, Phase 2, New Market Road, Northriding, 2169"
+}

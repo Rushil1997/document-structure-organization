@@ -1,0 +1,60 @@
+{
+  "number": "INV-0007",
+  "vat_amount": "2422.80",
+  "subtotal": "16152.0",
+  "total": "18574.80",
+  "invoice_date": "2026-10-16",
+  "due_date": "2026-10-30",
+  "items": [
+    {
+      "name": "BF1212C",
+      "quantity": 8,
+      "unit_price": "500.0",
+      "total_price": "4000.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "POX2hfh3551551",
+      "quantity": 6,
+      "unit_price": "1000.0",
+      "total_price": "6000.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "Gefsfsg12",
+      "quantity": 8,
+      "unit_price": "120.0",
+      "total_price": "960.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "TEFSF0dgs",
+      "quantity": 8,
+      "unit_price": "150.0",
+      "total_price": "1200.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "P778542580",
+      "quantity": 7,
+      "unit_price": "120.0",
+      "total_price": "840.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "FGD34",
+      "quantity": 4,
+      "unit_price": "788.0",
+      "total_price": "3152.0",
+      "currentcy": "ZAR"
+    }
+  ],
+  "purchase_order_number": null,
+  "terms_and_conditions": "\nPayment is due within 14 days of the invoice date via direct electronic funds transfer (EFT) in South African Rand (ZAR). Overdue balances will attract a late payment fee of 1.5% interest per month, accruing daily until the balance is settled in full. Any invoice disputes must be submitted in writing within 7 days of receipt, or the invoice will be deemed accepted as correct. All goods, services, or intellectual property deliverables remain the sole property of the provider until payment is received in full, and any associated usage rights may be suspended in the event of a default. Prices exclude VAT and other local taxes unless explicitly itemized, and the client is responsible for all applicable transaction or recovery fees.\n",
+  "company_name": "Nedbank",
+  "company_address": "84 Protea Street, Braamfontein, Johannesburg, 2001",
+  "company_vat_number": "0818889900",
+  "customer_trading_name": "Nedbank",
+  "customer_vat_number": "0847778899",
+  "customer_shipping_address": "Suite 102, Willowbrook Office Park, Van Hoof Street, Ruimsig, 1724"
+}

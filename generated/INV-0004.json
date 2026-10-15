@@ -1,0 +1,39 @@
+{
+  "number": "INV-0004",
+  "vat_amount": "990.15",
+  "subtotal": "6601.00",
+  "total": "7591.15",
+  "invoice_date": "2026-06-06",
+  "due_date": "2026-06-20",
+  "items": [
+    {
+      "name": "TEFSF0dgs",
+      "quantity": 10,
+      "unit_price": "150.0",
+      "total_price": "1500.0",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "P550388A",
+      "quantity": 4,
+      "unit_price": "150.25",
+      "total_price": "601.00",
+      "currentcy": "ZAR"
+    },
+    {
+      "name": "TEs23",
+      "quantity": 9,
+      "unit_price": "500.0",
+      "total_price": "4500.0",
+      "currentcy": "ZAR"
+    }
+  ],
+  "purchase_order_number": null,
+  "terms_and_conditions": "\nPayment is due within 14 days of the invoice date via direct electronic funds transfer (EFT) in South African Rand (ZAR). Overdue balances will attract a late payment fee of 1.5% interest per month, accruing daily until the balance is settled in full. Any invoice disputes must be submitted in writing within 7 days of receipt, or the invoice will be deemed accepted as correct. All goods, services, or intellectual property deliverables remain the sole property of the provider until payment is received in full, and any associated usage rights may be suspended in the event of a default. Prices exclude VAT and other local taxes unless explicitly itemized, and the client is responsible for all applicable transaction or recovery fees.\n",
+  "company_name": "Investec",
+  "company_address": "109 Jacaranda Crescent, Hatfield, Pretoria, 0083",
+  "company_vat_number": "0831112233",
+  "customer_trading_name": "Investec",
+  "customer_vat_number": "0821234567",
+  "customer_shipping_address": "Warehouse 7, Mega Storage Facility, 88 Heidelberg Road, City Deep, 2049"
+}
